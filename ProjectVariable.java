@@ -4,5 +4,6 @@ public class ProjectVariable {
         double height = 154.3;
         String name = "karan Kumar";
         System.out.printf("Hello I'm %s and I'm of %d year old. My height is %f ", name, age,height);
+        System.out.println(">>>>>>>>>>>>>>>");
     }
 }
