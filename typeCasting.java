@@ -13,8 +13,8 @@ public class typeCasting {
         System.out.println(i);
 
         char c = 'a';
-        int ci = c;
+        int ii = c;
         System.out.println("Char: " + c);
-        System.out.println("Integer: " + ci);
+        System.out.println("Integer: " + ii);
     }
 }

@@ -10,7 +10,7 @@ public class staticVariable {
     public void display(){
         System.out.println("Name: " + name);
         System.out.println("College: " + college);
-        System.out.println("____________________________");
+        System.out.println("__________________________");
     }
 
     public static void main(String []args){

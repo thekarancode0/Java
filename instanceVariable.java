@@ -15,7 +15,7 @@ public class instanceVariable {
         person1.pos  = "SDE";
         person1.display();
 
-        //Object 2 has its own copy
+        //Object 2 has its own copy--->>>>>>
         instanceVariable person2 = new instanceVariable();
         person2.name = "Shreya";
         person2.pos = "SDE";

@@ -1,5 +1,6 @@
 public class variables {
     public static void main(String[] args){
+        String datatypes = "types";
         byte b = -128;
         byte b1 = 127;
         System.out.println(b);
