@@ -1,4 +1,4 @@
-public class ProjectGreeting {
+public class Project1Greeting {
     public static void main(String[] args){
         System.out.println("Hello, I'm Karan Kumar");
         System.out.println("I'm Passinate about Computer and Coding");
