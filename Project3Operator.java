@@ -1,4 +1,4 @@
-public class ProjectOperator {
+public class Project3Operator {
     public static void rectangle() {
         int length = 10;
         int width = 7;
