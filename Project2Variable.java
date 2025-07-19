@@ -1,4 +1,4 @@
-public class ProjectVariable {
+public class Project2Variable {
     public static void main(String[] args) {
         int age = 20;
         double height = 154.3;
