@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ProjectTrafficLight {
+public class Project4TrafficLight {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         System.out.print("Enter the Color: ");
