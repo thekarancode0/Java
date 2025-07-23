@@ -1,5 +1,5 @@
 
-public class dogClass {
+public class Project9DogClass {
     static class Dog{
         String name;
         String breed;
