@@ -1,5 +1,5 @@
+package com.bank.model;
 import java.util.ArrayList;
-
 class BankAccount {
     private static long lastAccountNumber = 1000000000;
     private final long accountNumber;
