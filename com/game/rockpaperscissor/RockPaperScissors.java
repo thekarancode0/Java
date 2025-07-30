@@ -1,7 +1,7 @@
 package com.game.rockpaperscissor;
 
 import java.util.Scanner;
-import com.Game;
+
 public class RockPaperScissors extends Game {
     private HumanPlayer human;
     private ComputerPlayer computer;
